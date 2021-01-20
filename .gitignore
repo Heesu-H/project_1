@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# api key ignore
+
+/data_sets/api_key_heesu.py
