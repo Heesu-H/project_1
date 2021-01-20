@@ -130,4 +130,5 @@ dmypy.json
 
 # api key ignore
 
-/api_key_heesu.py
+api_key_heesu.py
+
