@@ -17,7 +17,7 @@ The following questions will be addressed on an annualised basis.
 
 Questions:
 
-Is there a correlation between yearly global average temperature and yearly average global CO2 level ? (Heesu)
+1) Is there a correlation between yearly global average temperature and yearly average global CO2 level ? (Heesu)
 - Null hypothesis: There is no correlation between yearly global average temp and yearly average global CO2 levels
 - Alternative hypothesis: There is a positive correlation between yearly global average temp and yearly average global CO2 levels
 
@@ -28,17 +28,17 @@ CO2 emission Dataset:
 https://www.co2.earth/co2-datasets
 
 
-If there is a correlation between an increase in global temperature and CO2 levels, then is there a relationship between a region’s (Oceania, Asia, Africa, etc) average temperature and their CO2 yearly CO2 emissions? (Anne)
+2) If there is a correlation between an increase in global temperature and CO2 levels, then is there a relationship between a region’s (Oceania, Asia, Africa, etc) average temperature and their CO2 yearly CO2 emissions? (Anne)
 - Null Hypothesis: A country’s increase in CO2 level does not increase the country’s average temperature (by year)
 - Alternative Hypothesis: A country’s increase in CO2 level does increase the country’s average temperature.
 
 
-Is there a correlation between a country’s wealth (GDP per Capita) and its yearly average CO2 emissions? (Oscar)
+3) Is there a correlation between a country’s wealth (GDP per Capita) and its yearly average CO2 emissions? (Oscar)
 - Null hypothesis: Wealth of a country does not affect CO2 emissions. 
 - Alternative hypothesis: The wealthier a country, the more CO2 they emit.
 
 
-Is there a correlation between global average temperature and global population? (population value to be taken at the end of each year) (Chad)
+4) Is there a correlation between global average temperature and global population? (population value to be taken at the end of each year) (Chad)
 
 Null hypothesis: There is no correlation between global yearly average temp and global population.
 Alternative hypothesis: There is a positive correlation between global yearly average temp and global population.
@@ -47,7 +47,7 @@ Global population:
 https://www.worldometers.info/world-population/world-population-by-year/
 Global average temperature: from heesu’s jupyter notebook
 
-Is there a correlation between a country’s yearly average CO2 levels and life expectancy? Does a country’s CO2 level affect the life expectancy of a population? (Zheng)
+5) Is there a correlation between a country’s yearly average CO2 levels and life expectancy? Does a country’s CO2 level affect the life expectancy of a population? (Zheng)
 - Null hypothesis: There is no correlation between a country’s yearly average CO2 level
 - Alternative hypothesis: As CO2 levels increase, a population’s life expectancy decreases.
 Data: 
