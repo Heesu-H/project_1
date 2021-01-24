@@ -56,7 +56,7 @@ https://data.worldbank.org/indicator/SP.DYN.LE00.IN
 This will enable us to visualise the effects climate change has on a population and present a succinct presentation of our analysis and findings. 
 
 Sources
-https://datahelpdesk.worldbank.org/
-https://www.worldometers.info/world-population/world-population-by-year/
-https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv
-https://www.co2.earth/co2-datasets
+- https://datahelpdesk.worldbank.org/
+- https://www.worldometers.info/world-population/world-population-by-year/
+- https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv
+- https://www.co2.earth/co2-datasets
