@@ -1,1 +1,41 @@
-Population Analysis
+Population Analysis:
+
+Question 4: What is the relationship between the global average temperature and global population?
+
+Hypothesis:
+
+If the global average temperature increases, then the population should decrease due to the inhabitable nature of a warmer climate.
+
+Null Hypothesis:
+
+If the global population is increasing, then the global average temperature stays constant relative to the increase.
+
+Results & Analysis:
+
+The primary asumption made by many people is that the global population is increasing rapidly. And as general rule, this is mostly true.
+
+However, although our population has nearly more than doubled in the last fourty five years from 1970 - 2015 as shown below:
+
+1970	3,700,437,046	2.06%
+2015	7,379,797,139	1.16%
+
+It is the percentage change that has slowed the growth in relative terms (or populationn as a percentage of poppulation growth has decreased). As such, the Hypothesis is essentially valid in-terms of percentage decrease, however is still growing, just a slower rate.
+
+As a reference, please refer to .png file: Net Global Increase_Population.
+
+It is also worth noting that the trend in net population growth as a pecentage has been dropping at a relatively even rate of decline.
+
+As a result of the above results and analysis, it was important to have a look at factors which may also be a factor in the decline of population percentage growth. 
+
+
+Net Global Movement_Urbanisation
+
+Utilising the available data within the same dataset, we decided to explore urbanisation and it's effect on populations. Again, the analysis was very insightful showing in 1990 only 36% of the world was urbanised. In 2015, it was 54%. 
+
+As a reference, please refer to .png file: Net Global Increase_Population.
+
+This shows a rapid increase in urbanisationn, and as a result of this, a slowing in population increase as urban families tend to have less children (Ref: IIED’s Human Settlements group, Authors Gordon McGranahan & David Satterthwaite).
+
+This also adds another insight to as why population as a percentage is declining. 
+
+It is worth considering that additional datasets could have been used and merged such as mortality rates and international migration patterns. One can fairly assume these would show that poorer areas would move to more wealthier urban areas and those poorer areas would have both higher infant mortality rates and lower life expectancies.
